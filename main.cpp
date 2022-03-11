@@ -5,6 +5,6 @@ using namespace std;
 
 int main(){
 
-  cout<<"salam antar ";
+  cout<<"salam antar 1234";
 
 }
