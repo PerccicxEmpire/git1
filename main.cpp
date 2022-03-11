@@ -6,6 +6,9 @@ using namespace std;
 int main(){
 
   cout<<"salam antar noobe sag";
+  
+  cout<<"Test";
+  
   system("pause");
 
 }
